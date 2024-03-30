@@ -6,9 +6,9 @@
 
 <p align="left"> <a href="https://twitter.com/ankush__57s" target="blank"><img src="https://img.shields.io/twitter/follow/ankush__57s?logo=twitter&style=for-the-badge" alt="ankush__57s" /></a> </p>
 
-- 🔭 I’m currently working on **Something Big**
+- 🔭 I’m currently working on **Python Automation & Generative AI**
 
-- 🌱 I’m currently learning **Flask**
+- 🌱 I’m currently learning **ML with Python Libraries**
 
 - 👯 I’m looking to collaborate on **Full-Stack Projects**
 
