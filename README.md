@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ankush</h1>
 <h3 align="center">A Passionate Full Stack Web Developer from India</h3>
-<img align="center" alt="coding" width="400" src"https://www.shutterstock.com/image-illustration/web-development-coding-concept-banner-260nw-1955634814.jpg" />
+<img align="center"  width="400" src"[https://www.shutterstock.com/image-illustration/web-development-coding-concept-banner-260nw-1955634814.jpg](https://www.intellaeducation.com/wp-content/uploads/2021/07/Full-Stack-Developer.jpg-full-stack-developer.jpg)" />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ankush-web-eng&label=Profile%20views&color=0e75b6&style=flat" alt="ankush-web-eng" /> </p>
 
