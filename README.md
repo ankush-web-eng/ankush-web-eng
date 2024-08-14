@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ankush</h1>
 <h3 align="center">A dedicated Full Stack and DevOps Developer with a passion for crafting seamless and efficient web applications.</h3>
 
-<p align="left"> <a href="https://twitter.com/ankush__57s" target="blank"><img src="https://img.shields.io/twitter/follow/ankush__57s?logo=twitter&style=for-the-badge" alt="ankush__57s" /></a> </p>
+<p align="left"> <a href="https://twitter.com/whyankush07" target="blank"><img src="https://img.shields.io/twitter/follow/ankush__57s?logo=twitter&style=for-the-badge" alt="ankush__57s" /></a> </p>
 
 - 🌱 I’m currently learning **Cloud and Advanced Backend**
 
