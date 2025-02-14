@@ -1,7 +1,7 @@
 # Hi, I'm Ankush
 
 <div align="center">
-<img src = "https://ankushsingh.tech/anime.jpeg">
+<img src = "https://ankushsingh.tech/imagine-win.jpg">
 </div>
 
 # 💫 About Me:
