@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://whyankush.wtf/imagine-win.jpg" width="100%" alt="Ankush">
+  <img src="https://lunaric.in/imagine-win.jpg" width="100%" alt="Ankush">
 </div>
 
 <h1 align="center">Hi, I'm Ankush</h1>
